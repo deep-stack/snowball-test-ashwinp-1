@@ -7,6 +7,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://www.laconic.com/">Laconic!</a>
         </h1>
+        <h2>Hello World!</h2>
 
         <div className={styles.grid}>
 
